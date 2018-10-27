@@ -1,5 +1,5 @@
 ## Intro
-[CORS OriginHeaderScrutiny](https://www.owasp.org/index.php/SQL_Injection) by OWASP  
+[CORS OriginHeaderScrutiny](https://www.owasp.org/index.php/CORS_OriginHeaderScrutiny) by OWASP  
 
 [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) by Wikipedia  
 
