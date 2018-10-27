@@ -11,7 +11,7 @@
 [Browser cross-site scripting filter disabled](https://portswigger.net/knowledgebase/Issues/details/005009b0_browsercrosssitescriptingfilterdisabled) by PortSwigger  
 
 ## Advanced exploitation
--
+[5 Practical Scenarios for XSS Attacks](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) by Satyam Singh  
 
 ## Articles
 -
@@ -19,5 +19,8 @@
 ## Videos
 -
 
-## Tools
+## Reports
 -
+
+## Tools
+[XSS Hunter](https://xsshunter.com/) by IAmMandatory

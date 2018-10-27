@@ -14,12 +14,15 @@
 -
 
 ## Articles
-[The Ultimate SQL Injection Payload](https://labs.detectify.com/2013/05/29/the-ultimate-sql-injection-payload/)  by Detectify  
+-
 
 ## Videos
 
 [DEFCON 17: Advanced SQL Injection](https://www.youtube.com/watch?v=rdyQoUNeXSg)  
 [Hacktivity 2012 - Joe McCray - Big Bang Theory - Pentesting high security environments](https://www.youtube.com/watch?v=qBVThFwdYTc)  
+
+## Reports
+-
 
 ## Tools
 -
