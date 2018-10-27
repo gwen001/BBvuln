@@ -10,11 +10,16 @@
 [Client-side SQL injection (reflected DOM-based)](https://portswigger.net/knowledgebase/Issues/details/00200331_clientsidesqlinjectionreflecteddombased) by PortSwigger  
 [Client-side SQL injection (stored DOM-based)](https://portswigger.net/knowledgebase/Issues/details/00200332_clientsidesqlinjectionstoreddombased) by PortSwigger  
 
-## Examples
+## Advanced exploitation
+-
+
+## Articles
 [The Ultimate SQL Injection Payload](https://labs.detectify.com/2013/05/29/the-ultimate-sql-injection-payload/)  by Detectify  
+
+## Videos
 
 [DEFCON 17: Advanced SQL Injection](https://www.youtube.com/watch?v=rdyQoUNeXSg)  
 [Hacktivity 2012 - Joe McCray - Big Bang Theory - Pentesting high security environments](https://www.youtube.com/watch?v=qBVThFwdYTc)  
 
-## Advanced exploitation
+## Tools
 -

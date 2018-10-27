@@ -10,8 +10,14 @@
 [Cross-site scripting (stored DOM-based)](https://portswigger.net/knowledgebase/Issues/details/00200312_crosssitescriptingstoreddombased) by PortSwigger  
 [Browser cross-site scripting filter disabled](https://portswigger.net/knowledgebase/Issues/details/005009b0_browsercrosssitescriptingfilterdisabled) by PortSwigger  
 
-## Examples
+## Advanced exploitation
 -
 
-## Advanced exploitation
+## Articles
+-
+
+## Videos
+-
+
+## Tools
 -

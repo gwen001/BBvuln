@@ -5,8 +5,17 @@
 
 [Cross-site request forgery](https://portswigger.net/knowledgebase/Issues/details/00200700_crosssiterequestforgery) by PortSwigger  
 
-## Examples
+## Advanced exploitation
 -
 
-## Advanced exploitation
+## Artiles
+-
+
+## Videos
+-
+
+## Reports
+-
+
+## Tools
 -
