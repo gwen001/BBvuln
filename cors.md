@@ -16,7 +16,7 @@
 [Exploiting Misconfigured CORS](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/) by Geekboy  
 [Critical Issue Opened Private Chats of Facebook Messenger Users](https://www.cynet.com/wp-content/uploads/2016/12/Blog-Post-BugSec-Cynet-Facebook-Originull.pdf) by Cynet  
 
-## Videos
+## Videos
 -
 
 ## Reports
