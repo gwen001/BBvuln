@@ -1,14 +1,13 @@
 The purpose of this repository is to provide resources that you could link in your PoC to explain the security team what the vulnerability is about but more important what are the potential dangers.
 
 
-
-[SQL injection aka SQLi](/vuln-sql-injection/)  
-[Cross-site scriptting aka XSS](/vuln-cross-site-scripting/)  
-[Subdomain takeover](/vuln-subdomain-takeover/)  
-[Relative path overwrite / Path-relative style sheet import](/vuln-relative-path-overwrite/)  
-[Cross-site request forgery aka CSRF](/vuln-cross-site-request-forgery/)  
-[Clickjacking](/vuln-clickjacking/)  
-[Cross-origin resource sharing aka CORS](/vuln-cross-origin-resource-sharing/)  
+[Clickjacking](clickjacking.md)  
+[CORS - Cross-origin resource sharing](cors.md)  
+[CSRF - Cross-site request forgery](csrf.md)  
+[Relative path overwrite / Path-relative style sheet import](relative-path-overwrite.md)  
+[SQLI - SQL injection](sqli.md)  
+[Subdomain takeover](subdomain-takeover.md)  
+[XSS - Cross-site scriptting](xss.md)  
 
 
 
